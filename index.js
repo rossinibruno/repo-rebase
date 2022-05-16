@@ -1,5 +1,5 @@
 function oddOrEven(x) {
-  if (x % 2 == 0) return console.log('Odd')
+  if (x % 2 == 0) return console.log('Par')
 
   return console.log('Ímpar')
 }

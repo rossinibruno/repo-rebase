@@ -1,7 +1,7 @@
 function oddOrEven(x) {
-  if (x % 2 == 0) return console.log('Par')
+  if (x % 2 == 0) return console.log('O Número é Par')
 
-  return console.log('Ímpar')
+  return console.log('O Número é Ímpar')
 }
 
 oddOrEven(1)

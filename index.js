@@ -5,5 +5,5 @@ function oddOrEven(x) {
   return console.log('O Número é Ímpar')
 }
 
-oddOrEven(1)
-oddOrEven(2)
+oddOrEven(3)
+oddOrEven(4)
